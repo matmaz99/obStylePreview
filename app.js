@@ -1,4 +1,4 @@
-import '../css/open.css';
+import './open.css';
 
 const location = new URL(window.location.href);
 //check if location have path 'version-test' and url parameter 'openbuild'
