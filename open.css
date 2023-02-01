@@ -1,0 +1,39 @@
+iframe#openpanel {
+    height: 96vh;
+    width: 400px;
+    position: fixed;
+    top: 35px;
+    right: -400px;
+    z-index: 2147483647;
+    transition: all 0.8s ease 0;
+    border: 1px solid #f0f0f0;
+}
+
+img#toggle {
+    height: 35px;
+    width: 35px;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    position: fixed;
+    top: 35px;
+    right: 35px;
+    z-index: 2147483647;
+    z-index: 2147483646;
+    cursor: pointer;
+}
+
+.context-menu .context-menu-item.openbuild::before {
+    content: url('chrome-extension://__MSG_@@extension_id__/img/icon-16x16.png');
+}
+
+#obBtn {
+    height: 50px;
+    width: 172px;
+    position: absolute;
+    /* align-self: center; */
+    right: 192px;
+    top: 32px;
+    border-radius: 5px;
+}

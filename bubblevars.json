@@ -1,0 +1,219 @@
+[
+  {
+    "id": "OB001",
+    "bubblename": "◩ Shades / Primary",
+    "description": "Highest contrasted shades - Mainly used for headers and input label",
+    "path": "Primary",
+    "order": 0
+  },
+  {
+    "id": "OB002",
+    "bubblename": "◩ Shades / Secondary 1",
+    "description": " Medium Shade - Mainly used for body texts and subtitles",
+    "path": "Secondary 1",
+    "order": 1
+  },
+  {
+    "id": "OB003",
+    "bubblename": "◩ Shades / Secondary 2",
+    "description": "Medium shade - Mainly used for inactive text or button and secondary text",
+    "path": "Secondary 2",
+    "order": 2
+  },
+  {
+    "id": "OB004",
+    "bubblename": "◩ Shades / Secondary 3",
+    "description": "Light shade - Mainly used for dividers or borders",
+    "path": "Secondary 3",
+    "order": 3
+  },
+  {
+    "id": "OB005",
+    "bubblename": "◩ Shades / Secondary 4",
+    "description": "Light shade - Mainly used for cards, light section background or dividers",
+    "path": "Secondary 4",
+    "order": 4
+  },
+  {
+    "id": "OB006",
+    "bubblename": "◩ Shades / Negative",
+    "description": "Negative color - Usually white or black depending on the color mode of the app",
+    "path": "Negative",
+    "order": 5
+  },
+  {
+    "id": "OB007",
+    "bubblename": "◩ Page Background",
+    "description": "Background color of all pages",
+    "path": "Page background",
+    "order": 6
+  },
+  {
+    "id": "OB008",
+    "bubblename": "◩ Color / Main",
+    "description": "Principal color - Mainly used for CTA's",
+    "path": "Color Main",
+    "order": 7
+  },
+  {
+    "id": "OB009",
+    "bubblename": "◩ Color / Secondary",
+    "description": "Secondary color",
+    "path": "Color Secondary",
+    "order": 8
+  },
+  {
+    "id": "OB010",
+    "bubblename": "◩ Color / Tertiary",
+    "description": "Tertiary color",
+    "path": "Color Tertiary",
+    "order": 9
+  },
+  {
+    "id": "OB011",
+    "bubblename": "◩ Input / Label",
+    "description": "Color used for inputs labels",
+    "path": "Input label",
+    "order": 10
+  },
+  {
+    "id": "OB012",
+    "bubblename": "◩ Input / Text",
+    "description": "Color used for inputs text",
+    "path": "Input text",
+    "order": 11
+  },
+  {
+    "id": "OB013",
+    "bubblename": "◩ Input / Background",
+    "description": "Color used for inputs background",
+    "path": "Input bg",
+    "order": 12
+  },
+  {
+    "id": "OB014",
+    "bubblename": "◩ Input / Border",
+    "description": "Color used for inputs borders",
+    "path": "Input border",
+    "order": 13
+  },
+  {
+    "id": "OB015",
+    "bubblename": "◩ Input / Focus",
+    "description": "Color used for borders when inputs are hovered or focused",
+    "path": "Input border hover",
+    "order": 14
+  },
+  {
+    "id": "OB016",
+    "bubblename": "◩ Button / Primary / Text",
+    "description": "Text color used for primary buttons",
+    "path": "btn-Primary-Text",
+    "order": 15
+  },
+  {
+    "id": "OB017",
+    "bubblename": "◩ Button / Primary / Background",
+    "description": "Background color used for primary buttons",
+    "path": "btn-Primary",
+    "order": 16
+  },
+  {
+    "id": "OB018",
+    "bubblename": "◩ Button / Primary / Hover",
+    "description": "Background color when primary buttons are hovered",
+    "path": "btn-Primary hover",
+    "order": 17
+  },
+  {
+    "id": "OB019",
+    "bubblename": "◩ Button / Secondary / Text",
+    "description": "Text color used for secondary buttons",
+    "path": "btn-Secondary-Text",
+    "order": 18
+  },
+  {
+    "id": "OB020",
+    "bubblename": "◩ Button / Secondary / Background",
+    "description": "Background color used for secondary buttons",
+    "path": "btn-Secondary",
+    "order": 19
+  },
+  {
+    "id": "OB021",
+    "bubblename": "◩ Button / Secondary / Border",
+    "description": "Borders color used for secondary buttons",
+    "path": "btn-Secondary-Border",
+    "order": 20
+  },
+  {
+    "id": "OB022",
+    "bubblename": "◩ Button / Secondary / Hover",
+    "description": "Background color when secondary buttons are hovered",
+    "path": "btn-Secondary-Border hover",
+    "order": 21
+  },
+  {
+    "id": "OB023",
+    "bubblename": "◩ Button / Transparent / Text",
+    "description": "Text color used for transparent buttons",
+    "path": "btn-Transparent",
+    "order": 22
+  },
+  {
+    "id": "OB024",
+    "bubblename": "◩ Button / Transparent / Border",
+    "description": "Borders color used for transparent buttons",
+    "path": "btn-Transparent",
+    "order": 23
+  },
+  {
+    "id": "OB025",
+    "bubblename": "◩ Button / Transparent / Hover",
+    "description": "Borders color when transparent buttons are hovered",
+    "path": "btn-Transparent hover",
+    "order": 24
+  },
+  {
+    "id": "OB026",
+    "bubblename": "◩ Button / Color Main / Text",
+    "description": "Text color used for main color buttons",
+    "path": "btn-Color Main-Text",
+    "order": 25
+  },
+  {
+    "id": "OB027",
+    "bubblename": "◩ Button / Color Main / Background",
+    "description": "Background color used for main color buttons",
+    "path": "btn-Color Main",
+    "order": 26
+  },
+  {
+    "id": "OB028",
+    "bubblename": "◩ Button / Color Main / Hover",
+    "description": "Background color when main color buttons are hovered",
+    "path": "btn-Color Main hover",
+    "order": 27
+  },
+  {
+    "id": "OB029",
+    "bubblename": "◩ Button / Color Secondary / Text",
+    "description": "Text color used for secondary color buttons",
+    "path": "btn-Color Secondary-Text",
+    "order": 28
+  },
+  {
+    "id": "OB030",
+    "bubblename": "◩ Button / Color Secondary / Background",
+    "description": "Background color used for main color buttons",
+    "path": "btn-Color Secondary",
+    "order": 29
+  },
+  {
+    "id": "OB031",
+    "bubblename": "◩ Button / Color Secondary / Hover",
+    "description": "Background color when color secondary buttons are hovered",
+    "path": "btn-Color Secondary hover",
+    "order": 30
+  }
+]
